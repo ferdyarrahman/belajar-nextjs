@@ -87,4 +87,5 @@ npm run dev
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-2.png)
 
 secara default nextjs akan berjalan pada localhost dengan port 3000, buka https://localhost:3000 pada browser makan akan muncul seperti gambar berikut:
+
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-3.png)
