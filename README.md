@@ -7,6 +7,7 @@ sistem routing, hingga aplikasi yang dapat dideteksi oleh SEO.
 
 - [Dokumentasi](#dokumentasi)
 - [Installasi](#installasi)
+- [Halaman Baru dan Navigasi](doc-tutor/navigasi/navigasi.md)
 
 ## Dokumentasi
 
