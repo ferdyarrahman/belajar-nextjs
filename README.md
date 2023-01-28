@@ -40,7 +40,7 @@ install nextjs react dan react-dom, seperti berikut ini:
 npm i --save next react react-dom
 ```
 
-![alt text]({https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-1.png})
+![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-1.png)
 
 setelah proses installasi selesai makan akan terbentuk folder `node_modules`, file package-lock.json,
 dan pada file package.json akan terdapat 3 dependencies yang di butuhkan seperti berikut :
@@ -84,7 +84,7 @@ Selanjutnya jalankan perintah berikut pada terminal/CMD :
 npm run dev
 ```
 
-![alt text]({https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-2.png})
+![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-2.png)
 
 secara default nextjs akan berjalan pada localhost dengan port 3000, buka https://localhost:3000 pada browser makan akan muncul seperti gambar berikut:
-![alt text]({https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-3.png})
+![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-3.png)
