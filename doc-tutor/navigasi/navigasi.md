@@ -7,6 +7,7 @@ export default () => <div>Page About!!</div>;
 ```
 
 jalankan http://localhost:3000/about pada browser makan akan muncul seperti gambar berikut:
+
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/navigasi/image-1.png)
 
 Selanjutnya untuk menavigasikan halaman `about.js` pada halaman utama di sini `index.js`, modifikasi file `pages/index.js` seperti berikut :
@@ -44,4 +45,5 @@ export default Index;
 ```
 
 Maka akan seperti berikut:
+
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/navigasi/image-2.png)
