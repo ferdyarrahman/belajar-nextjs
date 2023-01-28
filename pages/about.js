@@ -2,10 +2,10 @@ import Link from 'next/link'
 
 const Index = () => ( 
   <div>
-    Hello world!
+    Page About!!
     <br/>
-    <Link href="/about">
-      about
+    <Link href="/">
+      home
     </Link>
   </div>
 )
