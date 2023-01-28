@@ -1,6 +1,6 @@
 # Belajar Dasar NextJs
 
-_Next Js_ adalah framework _React Js_ agar lebih powerful, mulai dari kode per halaman menjadi lebih terstruktur,
+**NextJs** adalah framework **ReactJs** agar lebih powerful, mulai dari kode per halaman menjadi lebih terstruktur,
 sistem routing, hingga aplikasi yang dapat dideteksi oleh SEO.
 
 ## Daftar Pembahasan
@@ -10,11 +10,11 @@ sistem routing, hingga aplikasi yang dapat dideteksi oleh SEO.
 
 ## Dokumentasi
 
-Untuk dokumentasi NextJs lengkap, periksa [nextjs.org](https://nextjs.org/).
+Untuk dokumentasi **NextJs** lengkap, periksa [nextjs.org](https://nextjs.org/).
 
 ## Installasi
 
-Memulai berlajar nextjs kita akan membuat folder baru untuk menyimpan project nextjs. Jalankan perintah berikut ini pada terminal/CMD:
+Memulai berlajar **NextJs** kita akan membuat folder baru untuk menyimpan project **NextJs**. Jalankan perintah berikut ini pada terminal/CMD:
 
 ```bash
 $ mkdir nextjs-basic
@@ -29,7 +29,7 @@ touch package.json
 
 setelah file package.json terbentuk tambahakn buka tutup kurung agar tidak terjadi error, seperti berikut:
 
-```js
+```javascript
 {
 }
 ```
@@ -74,7 +74,7 @@ Modifiksi `package.json` setelah `dependencies` seperti berikut:
 
 Buat folder `pages` dan file `index.js`, Pada file `pages/index.js` tambahkan kode berikut:
 
-```js
+```javascript
 export default () => <div>Hello world!</div>;
 ```
 
@@ -86,6 +86,6 @@ npm run dev
 
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-2.png)
 
-secara default nextjs akan berjalan pada localhost dengan port 3000, buka https://localhost:3000 pada browser makan akan muncul seperti gambar berikut:
+secara default **NextJs** akan berjalan pada localhost dengan port 3000, buka https://localhost:3000 pada browser makan akan muncul seperti gambar berikut:
 
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/installasi/image-3.png)
