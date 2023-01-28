@@ -8,11 +8,11 @@ sistem routing, hingga aplikasi yang dapat dideteksi oleh SEO.
 - [Dokumentasi](#dokumentasi)
 - [Installasi](#installasi)
 
-## Documentation
+## Dokumentasi
 
 Untuk dokumentasi NextJs lengkap, periksa [nextjs.org](https://nextjs.org/).
 
-## installasi
+## Installasi
 
 Memulai berlajar nextjs kita akan membuat folder baru untuk menyimpan project nextjs. Jalankan perintah berikut ini pada terminal/CMD:
 
