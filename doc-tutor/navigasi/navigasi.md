@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg" width="50" height="50">
+
 ## Halaman Baru dan Navigasi
 
 Menambahkan halaman baru di **NextJs** dengan membuat file baru `pages/about.js`, tambahakn kode berikut :
