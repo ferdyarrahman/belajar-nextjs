@@ -1,7 +1,13 @@
 import Navigation from './Navigation'
 
+const styleLayout = {
+  margin:20,
+  padding:20,
+  border:"1px solid #DDD"
+}
+
 const Layout = (props) => (
-  <div>
+  <div style={styleLayout}>
   <Navigation />
   <br/>
   {props.children}

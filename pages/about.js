@@ -1,8 +1,8 @@
-import Layout from '../components/BaseLayout'
+import Layout from '../components/MainLayout'
 
 const About = () => ( 
     <Layout>
-    Page About!!
+    <p>This is the about page.</p>
     </Layout>
 )
 

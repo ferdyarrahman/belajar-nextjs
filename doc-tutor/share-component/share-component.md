@@ -9,10 +9,18 @@ tulis kode berikut ini di file `components/Navigation.js` :
 ```javascript
 import Link from "next/link";
 
+const linkStyle = {
+  marginRight: 15,
+};
+
 const Navigation = () => (
   <div>
-    <Link href="/">Home</Link>
-    <Link href="/about">About</Link>
+    <Link href="/">
+      <span style={linkStyle}>Home</span>
+    </Link>
+    <Link href="/about">
+      <span style={linkStyle}>About</span>
+    </Link>
   </div>
 );
 
@@ -30,7 +38,7 @@ import Navigation from "../components/Navigation";
 const Index = () => (
   <div>
     <Navigation />
-    Hello world!
+    <p>Hello world!</p>
   </div>
 );
 
@@ -45,7 +53,7 @@ import Navigation from "../components/Navigation";
 const About = () => (
   <div>
     <Navigation />
-    Page About!!
+    <p>This is the about page.</p>
   </div>
 );
 

@@ -1,12 +1,16 @@
 import Link from 'next/link'
 
+const linkStyle = {
+  marginRight: 15
+}
+
 const Navigation = () => (
   <div>
   <Link href='/'>
-   Home
+   <span style={linkStyle}>Home</span>
   </Link>
   <Link href='/about'>
-   About
+  <span style={linkStyle}>About</span>
   </Link>
   </div>
 )

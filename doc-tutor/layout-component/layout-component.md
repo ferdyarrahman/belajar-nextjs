@@ -4,13 +4,19 @@
 
 **NextJs** menawarkan konsep _Layout Component_ untuk berbagi bagian besar yang ingin dibagikan di berbagai komponen.
 Seperti contoh pembuatan layout website yang terdapat _navigation_, _sidebar_, _footer_, dan lain-lain.
-Buat file baru `Component/BaseLayout.js` tulis kode berikut:
+Buat file baru `Component/MainLayout.js` tulis kode berikut:
 
 ```javascript
 import Navigation from "./Navigation";
 
+const styleLayout = {
+  margin: 20,
+  padding: 20,
+  border: "1px solid #DDD",
+};
+
 const Layout = (props) => (
-  <div>
+  <div style={styleLayout}>
     <Navigation />
     <br />
     {props.children}
@@ -28,9 +34,13 @@ Untuk konten yang akan di tampilkan pada layout dapat di tulis `{props.children}
 Selanjutnya modifikasi halaman yang akan menggunakan layout. Buka file `pages/index.js` modifikasi kode seperti berikut:
 
 ```javascript
-import Layout from "../components/BaseLayout";
+import Layout from "../components/MainLayout";
 
-const Index = () => <Layout>Hello world!</Layout>;
+const Index = () => (
+  <Layout>
+    <p>Hello world!</p>
+  </Layout>
+);
 
 export default Index;
 ```

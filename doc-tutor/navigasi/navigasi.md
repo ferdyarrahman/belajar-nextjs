@@ -19,7 +19,7 @@ import Link from "next/link";
 
 const Index = () => (
   <div>
-    Hello world!
+    <p>Hello world!</p>
     <br />
     <Link href="/about">about</Link>
   </div>
@@ -37,7 +37,7 @@ import Link from "next/link";
 
 const About = () => (
   <div>
-    Page About!!
+    <p>This is the about page.</p>
     <br />
     <Link href="/">home</Link>
   </div>

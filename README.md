@@ -78,7 +78,11 @@ Modifiksi `package.json` setelah `dependencies` seperti berikut:
 Buat folder `pages` dan file `index.js`, Pada file `pages/index.js` tambahkan kode berikut:
 
 ```javascript
-export default () => <div>Hello world!</div>;
+export default () => (
+  <div>
+    <p>Hello world!</p>
+  </div>
+);
 ```
 
 Selanjutnya jalankan perintah berikut pada terminal/CMD :

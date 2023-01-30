@@ -1,8 +1,8 @@
-import Layout from '../components/BaseLayout'
+import Layout from '../components/MainLayout'
 
 const Index = () => ( 
   <Layout>
-    Hello world!
+    <p>Hello world!</p>
   </Layout>
 )
 
