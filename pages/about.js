@@ -1,13 +1,10 @@
-import Link from 'next/link'
+import Navigation from '../components/Navigation'
 
-const Index = () => ( 
+const About = () => ( 
   <div>
+    <Navigation />
     Page About!!
-    <br/>
-    <Link href="/">
-      home
-    </Link>
   </div>
 )
 
-export default Index
+export default About

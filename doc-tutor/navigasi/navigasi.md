@@ -1,4 +1,4 @@
-<a href="https://github.com/ferdyarrahman/belajar-nextjs#daftar-pembahasan"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-left.svg" width="20" height="20"> Kembali</a>
+[Halaman Baru dan Navigasi](../../#daftar-pembahasan)
 
 ## Halaman Baru dan Navigasi
 
@@ -35,7 +35,7 @@ Lanjut menambahkan navigasi untuk kembali ke halaman `index.js`, modifikasi file
 ```javascript
 import Link from "next/link";
 
-const Index = () => (
+const About = () => (
   <div>
     Page About!!
     <br />
@@ -43,7 +43,7 @@ const Index = () => (
   </div>
 );
 
-export default Index;
+export default About;
 ```
 
 Maka akan seperti berikut:
