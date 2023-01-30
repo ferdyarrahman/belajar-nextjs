@@ -1,6 +1,8 @@
+[Kembali](../../../../#daftar-pembahasan)
+
 ## Berbagi Komponen
 
-Membuat komponen yang bisa disharing atau digunakan oleh berbagai komponen lainnya.
+Membuat komponen yang bisa dibagikan atau digunakan oleh berbagai komponen lainnya.
 Buat folder `components` dan buat file baru bernama Navigation.js.
 tulis kode berikut ini di file `components/Navigation.js` :
 
@@ -49,3 +51,9 @@ const About = () => (
 
 export default About;
 ```
+
+Maka hasilnya seperti pada gambar berikut:
+
+![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/share-component/image-1.png)
+
+[Kembali](../../../../#daftar-pembahasan)
