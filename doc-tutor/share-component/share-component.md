@@ -1,4 +1,4 @@
-Berbagi Komponen
+## Berbagi Komponen
 
 Membuat komponen yang bisa disharing atau digunakan oleh berbagai komponen lainnya.
 Buat folder `components` dan buat file baru bernama Navigation.js.
