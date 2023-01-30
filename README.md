@@ -9,6 +9,7 @@ sistem routing, hingga aplikasi yang dapat dideteksi oleh SEO.
 - [Installasi](#installasi)
 - [Halaman Baru dan Navigasi](doc-tutor/navigasi/navigasi.md)
 - [Berbagi Komponen](doc-tutor/share-component/share-component.md)
+- [Layout Component](doc-tutor/layout-component/layout-component.md)
 
 ## Dokumentasi
 

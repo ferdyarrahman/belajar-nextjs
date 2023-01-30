@@ -1,10 +1,9 @@
-import Navigation from '../components/Navigation'
+import Layout from '../components/BaseLayout'
 
 const Index = () => ( 
-  <div>
-  <Navigation />
+  <Layout>
     Hello world!
-  </div>
+  </Layout>
 )
 
 export default Index

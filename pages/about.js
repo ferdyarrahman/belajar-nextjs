@@ -1,10 +1,9 @@
-import Navigation from '../components/Navigation'
+import Layout from '../components/BaseLayout'
 
 const About = () => ( 
-  <div>
-    <Navigation />
+    <Layout>
     Page About!!
-  </div>
+    </Layout>
 )
 
 export default About
