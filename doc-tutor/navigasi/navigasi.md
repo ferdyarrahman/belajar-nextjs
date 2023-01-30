@@ -1,4 +1,4 @@
-[Halaman Baru dan Navigasi](../../#daftar-pembahasan)
+[< Kembali](../../../../#daftar-pembahasan)
 
 ## Halaman Baru dan Navigasi
 
@@ -49,3 +49,5 @@ export default About;
 Maka akan seperti berikut:
 
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/navigasi/image-2.png)
+
+[< Kembali](../../../../#daftar-pembahasan)
