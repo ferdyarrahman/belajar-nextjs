@@ -1,4 +1,4 @@
-[Kembali](../../../../#daftar-pembahasan)
+[< Kembali](../../../../#daftar-pembahasan)
 
 ## Berbagi Komponen
 
@@ -56,4 +56,4 @@ Maka hasilnya seperti pada gambar berikut:
 
 ![alt text](https://github.com/ferdyarrahman/belajar-nextjs/blob/main/doc-tutor/share-component/image-1.png)
 
-[Kembali](../../../../#daftar-pembahasan)
+[< Kembali](../../../../#daftar-pembahasan)
